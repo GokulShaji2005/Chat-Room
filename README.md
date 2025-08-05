@@ -1,4 +1,4 @@
-💬 ChatApp
+  # 💬 ChatApp
 A real-time chat application built with React and Firebase, enabling users to authenticate, join specific chat rooms, and chat instantly with others in the room.
 
 🚀 Features
